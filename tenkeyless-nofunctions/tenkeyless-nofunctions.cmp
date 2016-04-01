@@ -1,1139 +1,1046 @@
-Cmp-Mod V01 Genere par PcbNew le Wed 30 Mar 2016 03:45:41 PM EDT
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Fri 01 Apr 2016 03:22:15 PM EDT
 
 BeginCmp
-TimeStamp = 56FC273B
-Path = /56F43ED8
+TimeStamp = /56F43ED8;
 Reference = D1;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC274B
-Path = /56F43F10
+TimeStamp = /56F43F10;
 Reference = D2;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC275B
-Path = /56F43F20
+TimeStamp = /56F43F20;
 Reference = D3;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC276B
-Path = /56F43F30
+TimeStamp = /56F43F30;
 Reference = D4;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC277B
-Path = /56F43F40
+TimeStamp = /56F43F40;
 Reference = D5;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC278B
-Path = /56F43F50
+TimeStamp = /56F43F50;
 Reference = D6;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC279B
-Path = /56F43F60
+TimeStamp = /56F43F60;
 Reference = D7;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC27AB
-Path = /56F43F70
+TimeStamp = /56F43F70;
 Reference = D8;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC27BB
-Path = /56F43F80
+TimeStamp = /56F43F80;
 Reference = D9;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC27CB
-Path = /56F43F90
+TimeStamp = /56F43F90;
 Reference = D10;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC27DB
-Path = /56F43FA0
+TimeStamp = /56F43FA0;
 Reference = D11;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC27EB
-Path = /56F43FB0
+TimeStamp = /56F43FB0;
 Reference = D12;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC27FB
-Path = /56F43FC0
+TimeStamp = /56F43FC0;
 Reference = D13;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC280B
-Path = /56F43FD0
+TimeStamp = /56F43FD0;
 Reference = D14;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC281B
-Path = /56F43FE0
+TimeStamp = /56F43FE0;
 Reference = D15;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC282B
-Path = /56F43FF0
+TimeStamp = /56F43FF0;
 Reference = D16;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC283B
-Path = /56F44000
+TimeStamp = /56F44000;
 Reference = D17;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC284B
-Path = /56F44350
+TimeStamp = /56F44350;
 Reference = D18;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC285B
-Path = /56F44360
+TimeStamp = /56F44360;
 Reference = D19;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC286B
-Path = /56F44370
+TimeStamp = /56F44370;
 Reference = D20;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC287B
-Path = /56F44380
+TimeStamp = /56F44380;
 Reference = D21;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC288B
-Path = /56F44390
+TimeStamp = /56F44390;
 Reference = D22;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC289B
-Path = /56F443A0
+TimeStamp = /56F443A0;
 Reference = D23;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC28AB
-Path = /56F443B0
+TimeStamp = /56F443B0;
 Reference = D24;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC28BB
-Path = /56F443C0
+TimeStamp = /56F443C0;
 Reference = D25;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC28CB
-Path = /56F443D0
+TimeStamp = /56F443D0;
 Reference = D26;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC28DB
-Path = /56F443E0
+TimeStamp = /56F443E0;
 Reference = D27;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC28EB
-Path = /56F443F0
+TimeStamp = /56F443F0;
 Reference = D28;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC28FB
-Path = /56F44400
+TimeStamp = /56F44400;
 Reference = D29;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC290B
-Path = /56F44410
+TimeStamp = /56F44410;
 Reference = D30;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC291B
-Path = /56F44420
+TimeStamp = /56F44420;
 Reference = D31;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC292B
-Path = /56F44430
+TimeStamp = /56F44430;
 Reference = D32;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC293B
-Path = /56F44440
+TimeStamp = /56F44440;
 Reference = D33;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC294B
-Path = /56F44450
+TimeStamp = /56F44450;
 Reference = D34;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC295B
-Path = /56F44460
+TimeStamp = /56F44460;
 Reference = D35;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC296B
-Path = /56F44470
+TimeStamp = /56F44470;
 Reference = D36;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC297B
-Path = /56F44480
+TimeStamp = /56F44480;
 Reference = D37;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC298B
-Path = /56F44490
+TimeStamp = /56F44490;
 Reference = D38;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC299B
-Path = /56F444A0
+TimeStamp = /56F444A0;
 Reference = D39;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC29AB
-Path = /56F444B0
+TimeStamp = /56F444B0;
 Reference = D40;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC29BB
-Path = /56F444C0
+TimeStamp = /56F444C0;
 Reference = D41;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC29CB
-Path = /56F444D0
+TimeStamp = /56F444D0;
 Reference = D42;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC29DB
-Path = /56F444E0
+TimeStamp = /56F444E0;
 Reference = D43;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC29EB
-Path = /56F444F0
+TimeStamp = /56F444F0;
 Reference = D44;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC29FB
-Path = /56F44500
+TimeStamp = /56F44500;
 Reference = D45;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A0B
-Path = /56F44510
+TimeStamp = /56F44510;
 Reference = D46;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A1B
-Path = /56F44520
+TimeStamp = /56F44520;
 Reference = D47;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A2B
-Path = /56F44570
+TimeStamp = /56F44570;
 Reference = D48;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A3B
-Path = /56F44590
+TimeStamp = /56F44590;
 Reference = D49;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A4B
-Path = /56F445A0
+TimeStamp = /56F445A0;
 Reference = D50;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A5B
-Path = /56F445B0
+TimeStamp = /56F445B0;
 Reference = D51;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A6B
-Path = /56F445C0
+TimeStamp = /56F445C0;
 Reference = D52;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A7B
-Path = /56F445D0
+TimeStamp = /56F445D0;
 Reference = D53;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A8B
-Path = /56F445E0
+TimeStamp = /56F445E0;
 Reference = D54;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2A9B
-Path = /56F445F0
+TimeStamp = /56F445F0;
 Reference = D55;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2AAB
-Path = /56F44600
+TimeStamp = /56F44600;
 Reference = D56;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2ABB
-Path = /56F44610
+TimeStamp = /56F44610;
 Reference = D57;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2ACB
-Path = /56F44620
+TimeStamp = /56F44620;
 Reference = D58;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2ADB
-Path = /56F44640
+TimeStamp = /56F44640;
 Reference = D59;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2AEB
-Path = /56F44660
+TimeStamp = /56F44660;
 Reference = D60;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2AFB
-Path = /56F44680
+TimeStamp = /56F44680;
 Reference = D61;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B0B
-Path = /56F44690
+TimeStamp = /56F44690;
 Reference = D62;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B1B
-Path = /56F446A0
+TimeStamp = /56F446A0;
 Reference = D63;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B2B
-Path = /56F446E0
+TimeStamp = /56F446E0;
 Reference = D64;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B3B
-Path = /56F44720
+TimeStamp = /56F44720;
 Reference = D65;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B4B
-Path = /56F44730
+TimeStamp = /56F44730;
 Reference = D66;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B5B
-Path = /56F44740
+TimeStamp = /56F44740;
 Reference = D67;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B6B
-Path = /56F44750
+TimeStamp = /56F44750;
 Reference = D68;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B7B
-Path = /56F44760
+TimeStamp = /56F44760;
 Reference = D69;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B8B
-Path = /56F44770
+TimeStamp = /56F44770;
 Reference = D70;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2B9B
-Path = /56F44780
+TimeStamp = /56F44780;
 Reference = D71;
 ValeurCmp = DIODE;
 IdModule  = Discret:D3;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BB9
-Path = /56F43F1A
-Reference = SW3;
-ValeurCmp = NUM_2;
-IdModule  = Custom:KEYMODULE_MX_PINS;
+TimeStamp = /56FEC687;
+Reference = D72;
+ValeurCmp = LED;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BC3
-Path = /56F43F2A
-Reference = SW4;
-ValeurCmp = NUM_3;
-IdModule  = Custom:KEYMODULE_MX_PINS;
+TimeStamp = /56FEC6C3;
+Reference = D73;
+ValeurCmp = LED;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BCD
-Path = /56F43F3A
-Reference = SW5;
-ValeurCmp = NUM_4;
-IdModule  = Custom:KEYMODULE_MX_PINS;
+TimeStamp = /56FEC6D6;
+Reference = D74;
+ValeurCmp = LED;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BD7
-Path = /56F43F4A
-Reference = SW6;
-ValeurCmp = NUM_5;
-IdModule  = Custom:KEYMODULE_MX_PINS;
+TimeStamp = /56FEC673;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BE1
-Path = /56F43F5A
-Reference = SW7;
-ValeurCmp = NUM_6;
-IdModule  = Custom:KEYMODULE_MX_PINS;
+TimeStamp = /56FEC6BD;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BEB
-Path = /56F43F6A
-Reference = SW8;
-ValeurCmp = NUM_7;
-IdModule  = Custom:KEYMODULE_MX_PINS;
+TimeStamp = /56FEC6D0;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BF5
-Path = /56F43F7A
-Reference = SW9;
-ValeurCmp = NUM_8;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2BFF
-Path = /56F43F8A
-Reference = SW10;
-ValeurCmp = NUM_9;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C09
-Path = /56F43F9A
-Reference = SW11;
-ValeurCmp = NUM_0;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C13
-Path = /56F43FAA
-Reference = SW12;
-ValeurCmp = UNDRSCR;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C1D
-Path = /56F43FBA
-Reference = SW13;
-ValeurCmp = EQUAL;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C27
-Path = /56F43FCA
-Reference = SW14;
-ValeurCmp = BCKSPC;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C31
-Path = /56F43FDA
-Reference = SW15;
-ValeurCmp = INSRT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C3B
-Path = /56F43FEA
-Reference = SW16;
-ValeurCmp = HOME;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C45
-Path = /56F43FFA
-Reference = SW17;
-ValeurCmp = PG_UP;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C4F
-Path = /56F4434A
-Reference = SW18;
-ValeurCmp = LTAB;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C59
-Path = /56F4435A
-Reference = SW19;
-ValeurCmp = KEY_Q;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C63
-Path = /56F4436A
-Reference = SW20;
-ValeurCmp = KEY_W;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C6D
-Path = /56F4437A
-Reference = SW21;
-ValeurCmp = KEY_E;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C77
-Path = /56F4438A
-Reference = SW22;
-ValeurCmp = KEY_R;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C81
-Path = /56F4439A
-Reference = SW23;
-ValeurCmp = KEY_T;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C8B
-Path = /56F443AA
-Reference = SW24;
-ValeurCmp = KEY_Y;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C95
-Path = /56F443BA
-Reference = SW25;
-ValeurCmp = KEY_U;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2C9F
-Path = /56F443CA
-Reference = SW26;
-ValeurCmp = KEY_I;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CA9
-Path = /56F443DA
-Reference = SW27;
-ValeurCmp = KEY_O;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CB3
-Path = /56F443EA
-Reference = SW28;
-ValeurCmp = KEY_P;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CBD
-Path = /56F443FA
-Reference = SW29;
-ValeurCmp = OP_BRKT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CC7
-Path = /56F4440A
-Reference = SW30;
-ValeurCmp = CL_BRKT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CD1
-Path = /56F4441A
-Reference = SW31;
-ValeurCmp = BKSLSH;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CDB
-Path = /56F4442A
-Reference = SW32;
-ValeurCmp = DELETE;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CE5
-Path = /56F4443A
-Reference = SW33;
-ValeurCmp = END;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CEF
-Path = /56F4444A
-Reference = SW34;
-ValeurCmp = PG_DN;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2CF9
-Path = /56F4445A
-Reference = SW35;
-ValeurCmp = CAPS;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D03
-Path = /56F4446A
-Reference = SW36;
-ValeurCmp = KEY_A;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D0D
-Path = /56F4447A
-Reference = SW37;
-ValeurCmp = KEY_S;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D17
-Path = /56F4448A
-Reference = SW38;
-ValeurCmp = KEY_D;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D21
-Path = /56F4449A
-Reference = SW39;
-ValeurCmp = KEY_F;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D2B
-Path = /56F444AA
-Reference = SW40;
-ValeurCmp = KEY_G;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D35
-Path = /56F444BA
-Reference = SW41;
-ValeurCmp = KEY_H;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D3F
-Path = /56F444CA
-Reference = SW42;
-ValeurCmp = KEY_J;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D49
-Path = /56F444DA
-Reference = SW43;
-ValeurCmp = KEY_K;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D53
-Path = /56F444EA
-Reference = SW44;
-ValeurCmp = KEY_L;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D5D
-Path = /56F444FA
-Reference = SW45;
-ValeurCmp = SEMICOLON;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D67
-Path = /56F4450A
-Reference = SW46;
-ValeurCmp = QUOTE;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D71
-Path = /56F4451A
-Reference = SW47;
-ValeurCmp = ENTER;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D7B
-Path = /56F4456A
-Reference = SW48;
-ValeurCmp = LSHIFT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D85
-Path = /56F4458A
-Reference = SW49;
-ValeurCmp = KEY_Z;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D8F
-Path = /56F4459A
-Reference = SW50;
-ValeurCmp = KEY_X;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2D99
-Path = /56F445AA
-Reference = SW51;
-ValeurCmp = KEY_C;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DA3
-Path = /56F445BA
-Reference = SW52;
-ValeurCmp = KEY_V;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DAD
-Path = /56F445CA
-Reference = SW53;
-ValeurCmp = KEY_B;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DB7
-Path = /56F445DA
-Reference = SW54;
-ValeurCmp = KEY_N;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DC1
-Path = /56F445EA
-Reference = SW55;
-ValeurCmp = KEY_M;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DCB
-Path = /56F445FA
-Reference = SW56;
-ValeurCmp = COMMA;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DD5
-Path = /56F4460A
-Reference = SW57;
-ValeurCmp = PERIOD;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DDF
-Path = /56F4461A
-Reference = SW58;
-ValeurCmp = FWDSLSH;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DE9
-Path = /56F4463A
-Reference = SW59;
-ValeurCmp = RSHIFT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DF3
-Path = /56F4465A
-Reference = SW60;
-ValeurCmp = UP;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2DFD
-Path = /56F4467A
-Reference = SW61;
-ValeurCmp = LCTRL;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E07
-Path = /56F4468A
-Reference = SW62;
-ValeurCmp = WIN;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E11
-Path = /56F4469A
-Reference = SW63;
-ValeurCmp = LALT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E1B
-Path = /56F446DA
-Reference = SW64;
-ValeurCmp = SPACE;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E25
-Path = /56F4471A
-Reference = SW65;
-ValeurCmp = RALT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E2F
-Path = /56F4472A
-Reference = SW66;
-ValeurCmp = RCTRL;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E39
-Path = /56F4473A
-Reference = SW67;
-ValeurCmp = FN;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E43
-Path = /56F4474A
-Reference = SW68;
-ValeurCmp = ESC;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E4D
-Path = /56F4475A
-Reference = SW69;
-ValeurCmp = LEFT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E57
-Path = /56F4476A
-Reference = SW70;
-ValeurCmp = DN;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2E61
-Path = /56F4477A
-Reference = SW71;
-ValeurCmp = RIGHT;
-IdModule  = Custom:KEYMODULE_MX_PINS;
-EndCmp
-
-BeginCmp
-TimeStamp = 56FC2BA5
-Path = /56F43EC4
+TimeStamp = /56F43EC4;
 Reference = SW1;
 ValeurCmp = TILDE;
 IdModule  = Custom:KEYMODULE_MX_PINS;
 EndCmp
 
 BeginCmp
-TimeStamp = 56FC2BAF
-Path = /56F43F0A
+TimeStamp = /56F43F0A;
 Reference = SW2;
 ValeurCmp = NUM_1;
 IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F1A;
+Reference = SW3;
+ValeurCmp = NUM_2;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F2A;
+Reference = SW4;
+ValeurCmp = NUM_3;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F3A;
+Reference = SW5;
+ValeurCmp = NUM_4;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F4A;
+Reference = SW6;
+ValeurCmp = NUM_5;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F5A;
+Reference = SW7;
+ValeurCmp = NUM_6;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F6A;
+Reference = SW8;
+ValeurCmp = NUM_7;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F7A;
+Reference = SW9;
+ValeurCmp = NUM_8;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F8A;
+Reference = SW10;
+ValeurCmp = NUM_9;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43F9A;
+Reference = SW11;
+ValeurCmp = NUM_0;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43FAA;
+Reference = SW12;
+ValeurCmp = UNDRSCR;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43FBA;
+Reference = SW13;
+ValeurCmp = EQUAL;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43FCA;
+Reference = SW14;
+ValeurCmp = BCKSPC;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43FDA;
+Reference = SW15;
+ValeurCmp = INSRT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43FEA;
+Reference = SW16;
+ValeurCmp = HOME;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F43FFA;
+Reference = SW17;
+ValeurCmp = PG_UP;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4434A;
+Reference = SW18;
+ValeurCmp = LTAB;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4435A;
+Reference = SW19;
+ValeurCmp = KEY_Q;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4436A;
+Reference = SW20;
+ValeurCmp = KEY_W;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4437A;
+Reference = SW21;
+ValeurCmp = KEY_E;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4438A;
+Reference = SW22;
+ValeurCmp = KEY_R;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4439A;
+Reference = SW23;
+ValeurCmp = KEY_T;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F443AA;
+Reference = SW24;
+ValeurCmp = KEY_Y;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F443BA;
+Reference = SW25;
+ValeurCmp = KEY_U;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F443CA;
+Reference = SW26;
+ValeurCmp = KEY_I;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F443DA;
+Reference = SW27;
+ValeurCmp = KEY_O;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F443EA;
+Reference = SW28;
+ValeurCmp = KEY_P;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F443FA;
+Reference = SW29;
+ValeurCmp = OP_BRKT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4440A;
+Reference = SW30;
+ValeurCmp = CL_BRKT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4441A;
+Reference = SW31;
+ValeurCmp = BKSLSH;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4442A;
+Reference = SW32;
+ValeurCmp = DELETE;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4443A;
+Reference = SW33;
+ValeurCmp = END;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4444A;
+Reference = SW34;
+ValeurCmp = PG_DN;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4445A;
+Reference = SW35;
+ValeurCmp = CAPS;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4446A;
+Reference = SW36;
+ValeurCmp = KEY_A;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4447A;
+Reference = SW37;
+ValeurCmp = KEY_S;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4448A;
+Reference = SW38;
+ValeurCmp = KEY_D;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4449A;
+Reference = SW39;
+ValeurCmp = KEY_F;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F444AA;
+Reference = SW40;
+ValeurCmp = KEY_G;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F444BA;
+Reference = SW41;
+ValeurCmp = KEY_H;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F444CA;
+Reference = SW42;
+ValeurCmp = KEY_J;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F444DA;
+Reference = SW43;
+ValeurCmp = KEY_K;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F444EA;
+Reference = SW44;
+ValeurCmp = KEY_L;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F444FA;
+Reference = SW45;
+ValeurCmp = SEMICOLON;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4450A;
+Reference = SW46;
+ValeurCmp = QUOTE;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4451A;
+Reference = SW47;
+ValeurCmp = ENTER;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4456A;
+Reference = SW48;
+ValeurCmp = LSHIFT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4458A;
+Reference = SW49;
+ValeurCmp = KEY_Z;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4459A;
+Reference = SW50;
+ValeurCmp = KEY_X;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F445AA;
+Reference = SW51;
+ValeurCmp = KEY_C;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F445BA;
+Reference = SW52;
+ValeurCmp = KEY_V;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F445CA;
+Reference = SW53;
+ValeurCmp = KEY_B;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F445DA;
+Reference = SW54;
+ValeurCmp = KEY_N;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F445EA;
+Reference = SW55;
+ValeurCmp = KEY_M;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F445FA;
+Reference = SW56;
+ValeurCmp = COMMA;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4460A;
+Reference = SW57;
+ValeurCmp = PERIOD;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4461A;
+Reference = SW58;
+ValeurCmp = FWDSLSH;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4463A;
+Reference = SW59;
+ValeurCmp = RSHIFT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4465A;
+Reference = SW60;
+ValeurCmp = UP;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4467A;
+Reference = SW61;
+ValeurCmp = LCTRL;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4468A;
+Reference = SW62;
+ValeurCmp = WIN;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4469A;
+Reference = SW63;
+ValeurCmp = LALT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F446DA;
+Reference = SW64;
+ValeurCmp = SPACE;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4471A;
+Reference = SW65;
+ValeurCmp = RALT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4472A;
+Reference = SW66;
+ValeurCmp = RCTRL;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4473A;
+Reference = SW67;
+ValeurCmp = FN;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4474A;
+Reference = SW68;
+ValeurCmp = ESC;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4475A;
+Reference = SW69;
+ValeurCmp = LEFT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4476A;
+Reference = SW70;
+ValeurCmp = DN;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F4477A;
+Reference = SW71;
+ValeurCmp = RIGHT;
+IdModule  = Custom:KEYMODULE_MX_PINS;
+EndCmp
+
+BeginCmp
+TimeStamp = /56FEC65F;
+Reference = U1;
+ValeurCmp = TEENSY2.0++;
+IdModule  = ;
 EndCmp
 
 EndListe
