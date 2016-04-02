@@ -552,15 +552,15 @@ Text Label 3650 2250 0    60   ~ 0
 ROW2
 Text Label 3650 2350 0    60   ~ 0
 ROW3
-Text Label 3650 2450 0    60   ~ 0
-ROW4
-Text Label 3650 3650 0    60   ~ 0
-COL0
-Text Label 3650 3000 0    60   ~ 0
-COL1
 Text Label 3650 2900 0    60   ~ 0
-COL2
+ROW4
 Text Label 3650 3550 0    60   ~ 0
+COL0
+Text Label 3650 3750 0    60   ~ 0
+COL1
+Text Label 3650 3850 0    60   ~ 0
+COL2
+Text Label 3650 2450 0    60   ~ 0
 COL3
 NoConn ~ 2450 2050
 NoConn ~ 2450 2150
@@ -569,8 +569,8 @@ NoConn ~ 3650 3150
 NoConn ~ 3650 3250
 NoConn ~ 3650 3350
 NoConn ~ 3650 3450
-NoConn ~ 3650 3750
-NoConn ~ 3650 3850
+NoConn ~ 3650 3650
+NoConn ~ 3650 3000
 NoConn ~ 3650 4000
 NoConn ~ 3650 4150
 NoConn ~ 3650 4250

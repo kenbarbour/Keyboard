@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Fri 01 Apr 2016 10:56:35 PM EDT
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Fri 01 Apr 2016 11:56:46 PM EDT
 
 BeginCmp
 TimeStamp = /56FED0D3;
@@ -270,7 +270,7 @@ BeginCmp
 TimeStamp = /56FF26A3;
 Reference = U1;
 ValeurCmp = TEENSY2.0;
-IdModule  = ;
+IdModule  = Keyboard:TEENSY2_0;
 EndCmp
 
 EndListe
