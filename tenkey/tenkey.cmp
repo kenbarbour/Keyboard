@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Fri 01 Apr 2016 11:56:46 PM EDT
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Sat 02 Apr 2016 03:28:46 PM EDT
 
 BeginCmp
 TimeStamp = /56FED0D3;
@@ -151,119 +151,119 @@ BeginCmp
 TimeStamp = /56FED0CD;
 Reference = SW0:0;
 ValeurCmp = NUM_0;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_200H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED405;
 Reference = SW0:2;
 ValeurCmp = DOT;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED0C1;
 Reference = SW1:0;
 ValeurCmp = NUM_1;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED2B9;
 Reference = SW1:1;
 ValeurCmp = NUM_2;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED3F9;
 Reference = SW1:2;
 ValeurCmp = NUM_3;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED5F9;
 Reference = SW1:3;
 ValeurCmp = ENTER;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_200H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED0B5;
 Reference = SW2:0;
 ValeurCmp = NUM_4;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED2AD;
 Reference = SW2:1;
 ValeurCmp = NUM_5;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED3ED;
 Reference = SW2:2;
 ValeurCmp = NUM_6;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED0A0;
 Reference = SW3:0;
 ValeurCmp = NUM_7;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED2A1;
 Reference = SW3:1;
 ValeurCmp = NUM_8;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED3E1;
 Reference = SW3:2;
 ValeurCmp = NUM_9;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED5E1;
 Reference = SW3:3;
 ValeurCmp = PLUS;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_200H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED061;
 Reference = SW4:0;
 ValeurCmp = NUM_LCK;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED295;
 Reference = SW4:1;
 ValeurCmp = DIVIDE;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED3D5;
 Reference = SW4:2;
 ValeurCmp = MULTIPLY;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
 TimeStamp = /56FED5D5;
 Reference = SW4:3;
 ValeurCmp = MINUS;
-IdModule  = Keyboard:KEYMODULE_MX_PINS;
+IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
