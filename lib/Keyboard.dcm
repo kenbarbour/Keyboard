@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP USB
+D USB type A or B connection
+K USB
+$ENDCMP
+#
 #End Doc Library
