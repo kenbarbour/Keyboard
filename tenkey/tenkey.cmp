@@ -1,4 +1,32 @@
-Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Sat 02 Apr 2016 03:28:46 PM EDT
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Mon 18 Apr 2016 03:58:38 PM EDT
+
+BeginCmp
+TimeStamp = /57151BF7;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5715266F;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_ThroughHole:Capacitor4x3RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5715255E;
+Reference = C3;
+ValeurCmp = 10pF;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /57152546;
+Reference = C4;
+ValeurCmp = 10pF;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
 
 BeginCmp
 TimeStamp = /56FED0D3;
@@ -127,10 +155,52 @@ IdModule  = LEDs:LED-3MM;
 EndCmp
 
 BeginCmp
-TimeStamp = /56FF27BB;
-Reference = D19;
-ValeurCmp = LED;
-IdModule  = LEDs:LED-3MM;
+TimeStamp = /57151B01;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /5715339E;
+Reference = P1;
+ValeurCmp = SCK;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /571533B2;
+Reference = P2;
+ValeurCmp = MISO;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /571533C6;
+Reference = P3;
+ValeurCmp = MOSI;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /571533DA;
+Reference = P4;
+ValeurCmp = RESET;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /571533EE;
+Reference = P5;
+ValeurCmp = 5V;
+IdModule  = Connect:PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /57153402;
+Reference = P6;
+ValeurCmp = GND;
+IdModule  = Connect:PINTST;
 EndCmp
 
 BeginCmp
@@ -141,9 +211,23 @@ IdModule  = Discret:R3;
 EndCmp
 
 BeginCmp
-TimeStamp = /56FF27E3;
-Reference = R2;
-ValeurCmp = 220;
+TimeStamp = /57151F6C;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57151F80;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /571534EE;
+Reference = R5;
+ValeurCmp = 1K;
 IdModule  = Discret:R3;
 EndCmp
 
@@ -159,6 +243,13 @@ TimeStamp = /56FED405;
 Reference = SW0:2;
 ValeurCmp = DOT;
 IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5715211F;
+Reference = SW1;
+ValeurCmp = RESET;
+IdModule  = Discret:SW_PUSH_SMALL;
 EndCmp
 
 BeginCmp
@@ -186,7 +277,7 @@ BeginCmp
 TimeStamp = /56FED5F9;
 Reference = SW1:3;
 ValeurCmp = ENTER;
-IdModule  = Keyboard:CHERRY_PCB_200H;
+IdModule  = Keyboard:CHERRY_PCB_200V;
 EndCmp
 
 BeginCmp
@@ -235,7 +326,7 @@ BeginCmp
 TimeStamp = /56FED5E1;
 Reference = SW3:3;
 ValeurCmp = PLUS;
-IdModule  = Keyboard:CHERRY_PCB_200H;
+IdModule  = Keyboard:CHERRY_PCB_200V;
 EndCmp
 
 BeginCmp
@@ -267,10 +358,17 @@ IdModule  = Keyboard:CHERRY_PCB_100H;
 EndCmp
 
 BeginCmp
-TimeStamp = /56FF26A3;
+TimeStamp = /57068E43;
 Reference = U1;
-ValeurCmp = TEENSY2.0;
-IdModule  = Keyboard:TEENSY2_0;
+ValeurCmp = ATmega32U4-AU;
+IdModule  = QFP:lqfp44;
+EndCmp
+
+BeginCmp
+TimeStamp = /57152480;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Keyboard:SMD-3225;
 EndCmp
 
 EndListe
