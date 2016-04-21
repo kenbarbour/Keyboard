@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Mon 18 Apr 2016 03:58:38 PM EDT
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Wed 20 Apr 2016 04:36:38 PM EDT
 
 BeginCmp
 TimeStamp = /57151BF7;
@@ -11,7 +11,7 @@ BeginCmp
 TimeStamp = /5715266F;
 Reference = C2;
 ValeurCmp = 1uF;
-IdModule  = Capacitors_ThroughHole:Capacitor4x3RM2.5;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -158,7 +158,7 @@ BeginCmp
 TimeStamp = /57151B01;
 Reference = J1;
 ValeurCmp = USB;
-IdModule  = ;
+IdModule  = Keyboard:USB-MINI-B-SMD;
 EndCmp
 
 BeginCmp
@@ -207,28 +207,28 @@ BeginCmp
 TimeStamp = /56FF27CF;
 Reference = R1;
 ValeurCmp = 220;
-IdModule  = Discret:R3;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /57151F6C;
 Reference = R3;
-ValeurCmp = R;
-IdModule  = Discret:R3;
+ValeurCmp = 22;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /57151F80;
 Reference = R4;
-ValeurCmp = R;
-IdModule  = Discret:R3;
+ValeurCmp = 22;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /571534EE;
 Reference = R5;
 ValeurCmp = 1K;
-IdModule  = Discret:R3;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -367,7 +367,7 @@ EndCmp
 BeginCmp
 TimeStamp = /57152480;
 Reference = X1;
-ValeurCmp = CRYSTAL;
+ValeurCmp = 16 MHz;
 IdModule  = Keyboard:SMD-3225;
 EndCmp
 

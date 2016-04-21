@@ -5,4 +5,9 @@ D USB type A or B connection
 K USB
 $ENDCMP
 #
+$CMP USB-Mini
+D USB type A or B connection
+K USB
+$ENDCMP
+#
 #End Doc Library
