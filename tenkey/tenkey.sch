@@ -922,4 +922,20 @@ Wire Wire Line
 NoConn ~ 1250 3300
 Text Label 1600 2400 0    60   ~ 0
 +5V
+Text Label 4750 4500 0    60   ~ 0
+LED_A
+Text Label 4750 4700 0    60   ~ 0
+COL1
+Text Label 4750 5200 0    60   ~ 0
+COL0
+Text Label 4750 3300 0    60   ~ 0
+ROW0
+Text Label 4750 3900 0    60   ~ 0
+ROW4
+Text Label 4750 3200 0    60   ~ 0
+ROW2
+Text Label 4750 2900 0    60   ~ 0
+ROW1
+Text Label 4750 2800 0    60   ~ 0
+ROW3
 $EndSCHEMATC
