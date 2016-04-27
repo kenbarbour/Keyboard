@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Wed 20 Apr 2016 04:36:38 PM EDT
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Fri 22 Apr 2016 03:46:54 PM EDT
 
 BeginCmp
 TimeStamp = /57151BF7;
@@ -228,7 +228,7 @@ BeginCmp
 TimeStamp = /571534EE;
 Reference = R5;
 ValeurCmp = 1K;
-IdModule  = SMD_Packages:SM0805;
+IdModule  = Discret:R3;
 EndCmp
 
 BeginCmp
