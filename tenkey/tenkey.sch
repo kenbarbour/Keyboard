@@ -938,4 +938,8 @@ Text Label 4750 2900 0    60   ~ 0
 ROW1
 Text Label 4750 2800 0    60   ~ 0
 ROW3
+Text Label 4750 2700 0    60   ~ 0
+COL2
+Text Label 4750 4100 0    60   ~ 0
+COL3
 $EndSCHEMATC
